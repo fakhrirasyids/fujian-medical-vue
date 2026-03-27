@@ -1,0 +1,213 @@
+{
+  "brand": {
+    "short": "Medical Device Solutions",
+    "name": "Fujian Medical Engineering"
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "industries": "Industries",
+    "contact": "Contact",
+    "cta": "Request Consultation",
+    "open": "Open menu",
+    "close": "Close menu"
+  },
+  "hero": {
+    "badge": "Base Vue Landing Page",
+    "title": "Engineering-ready medical solutions for modern healthcare brands.",
+    "description": "Fujian Medical Engineering is presented here as a clean landing page starter for medical device engineering, product integration, manufacturing support, and lifecycle service operations.",
+    "primaryCta": "Talk to Our Team",
+    "secondaryCta": "Explore Services",
+    "highlights": {
+      "engineering": {
+        "title": "Engineering",
+        "description": "Prototype development, product customization, and system integration for healthcare equipment programs."
+      },
+      "production": {
+        "title": "Production",
+        "description": "Scalable support for sourcing, assembly coordination, and launch preparation across device lines."
+      },
+      "support": {
+        "title": "Support",
+        "description": "Documentation, training, and service planning designed for distributor and hospital teams."
+      }
+    },
+    "panel": {
+      "label": "Why this starter works",
+      "title": "A reusable structure for a medical engineering brand",
+      "description": "The layout is built to be easy to expand with real products, certifications, brochures, case studies, and inquiry workflows.",
+      "cards": {
+        "fast": {
+          "title": "Fast to customize",
+          "description": "Swap copy, colors, sections, and links without changing the core project structure."
+        },
+        "compliance": {
+          "title": "Healthcare-friendly tone",
+          "description": "Designed to communicate reliability, clarity, and technical confidence for B2B buyers."
+        }
+      },
+      "noteTitle": "Included in this setup",
+      "noteDescription": "Responsive layout, sticky header, multi-language support, and placeholder contact area ready for your real company details."
+    }
+  },
+  "about": {
+    "eyebrow": "Company Overview",
+    "title": "Built as a strong starting point for a medical engineering company website.",
+    "description": "This base project positions Fujian Medical Engineering as a technical and dependable partner serving healthcare manufacturers, distributors, and institutional buyers.",
+    "cards": {
+      "mission": {
+        "kicker": "Mission",
+        "title": "Practical solutions for healthcare equipment delivery",
+        "description": "Use this space to describe your company mission, core competencies, and the value you bring to product development or market expansion."
+      },
+      "quality": {
+        "kicker": "Quality",
+        "title": "Structured processes with quality-focused execution",
+        "description": "This section can be expanded with your internal QA approach, manufacturing controls, testing workflow, and documentation readiness."
+      },
+      "partnership": {
+        "kicker": "Partnership",
+        "title": "Flexible collaboration for OEM, ODM, and distribution",
+        "description": "Position the brand for long-term partnerships with hospitals, procurement teams, distributors, and private-label device programs."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Core Services",
+    "title": "A service lineup tailored for device development and commercial delivery.",
+    "description": "These cards are intentionally generic so you can adapt them to your exact product and engineering scope.",
+    "cards": {
+      "engineering": {
+        "title": "Device Engineering",
+        "description": "Translate ideas into commercially viable equipment concepts with a structured technical process.",
+        "points": [
+          "Concept refinement and requirement mapping",
+          "Integration planning for subsystems and components",
+          "Prototype and pre-launch technical coordination"
+        ]
+      },
+      "manufacturing": {
+        "title": "Manufacturing Support",
+        "description": "Coordinate production-readiness activities for better rollout control and clearer supplier alignment.",
+        "points": [
+          "Assembly workflow planning",
+          "Supplier and component coordination",
+          "Launch preparation and ramp support"
+        ]
+      },
+      "compliance": {
+        "title": "Documentation & Compliance",
+        "description": "Organize product-facing materials that help buyers, partners, and internal teams move faster.",
+        "points": [
+          "Technical file preparation support",
+          "Manuals, guides, and training assets",
+          "Market-entry documentation workflows"
+        ]
+      },
+      "lifecycle": {
+        "title": "Lifecycle Service",
+        "description": "Support long-term customer relationships with maintenance planning and after-sales coordination.",
+        "points": [
+          "Service planning and spare-part logic",
+          "Distributor onboarding materials",
+          "Operational support documentation"
+        ]
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Application Areas",
+    "title": "Designed for multiple healthcare and device commercialization scenarios.",
+    "description": "Use these blocks to show the business segments you support or to introduce your product families.",
+    "cards": {
+      "hospital": {
+        "kicker": "Hospitals",
+        "title": "Clinical and hospital equipment programs",
+        "description": "Present your solutions for frontline healthcare environments where stability, usability, and uptime matter most."
+      },
+      "diagnostics": {
+        "kicker": "Diagnostics",
+        "title": "Testing and diagnostic product support",
+        "description": "Show how your engineering or supply capabilities help diagnostic brands improve deployment and field performance."
+      },
+      "rehab": {
+        "kicker": "Rehabilitation",
+        "title": "Rehab and therapeutic device categories",
+        "description": "Adapt this card for physiotherapy, mobility support, patient monitoring, or home-care product lines."
+      },
+      "oem": {
+        "kicker": "OEM / ODM",
+        "title": "Private-label and custom manufacturing partnerships",
+        "description": "Highlight your ability to collaborate with overseas brands, channel partners, and procurement-driven product programs."
+      }
+    }
+  },
+  "stats": {
+    "eyebrow": "Trust Signals",
+    "title": "Clear metrics and proof points help the site feel more credible.",
+    "description": "The numbers below are placeholders. Replace them with real company milestones, certifications, factory figures, or export coverage.",
+    "items": [
+      {
+        "value": "10+",
+        "label": "Years Experience",
+        "description": "Use a strong headline number for corporate history, engineering tenure, or manufacturing track record."
+      },
+      {
+        "value": "24/7",
+        "label": "Service Ready",
+        "description": "Showcase support responsiveness or regional distributor coverage if that is central to your positioning."
+      },
+      {
+        "value": "OEM / ODM",
+        "label": "Flexible Models",
+        "description": "Communicate the commercial formats you support for medical equipment buyers and channel partners."
+      },
+      {
+        "value": "Global",
+        "label": "Documentation Friendly",
+        "description": "Emphasize export orientation, multilingual support, or multi-market documentation readiness."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Ready to turn this starter into your live company site?",
+    "description": "Replace the placeholders below with your actual contact details, CRM flow, embedded form, or WhatsApp / email links.",
+    "cards": {
+      "email": {
+        "label": "Email",
+        "value": "business@your-domain.com"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+00 123 456 7890"
+      },
+      "address": {
+        "label": "Address",
+        "value": "Add your office or factory address here"
+      }
+    },
+    "form": {
+      "eyebrow": "Inquiry block",
+      "title": "Use this section for your real lead form",
+      "description": "Right now it is a styled placeholder so you can quickly replace it with a working form library, backend endpoint, or external contact widget.",
+      "fields": {
+        "name": "Name",
+        "email": "Email",
+        "company": "Company",
+        "message": "Message"
+      },
+      "placeholders": {
+        "name": "Your contact name",
+        "email": "your.email@company.com",
+        "company": "Hospital, distributor, or brand name",
+        "message": "Tell us about your project, target market, product category, or partnership request"
+      },
+      "submit": "Replace with Working Form",
+      "note": "Placeholder UI included"
+    }
+  },
+  "footer": {
+    "copy": "Base Vue landing page for Fujian Medical Engineering."
+  }
+}

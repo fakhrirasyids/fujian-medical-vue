@@ -1,0 +1,213 @@
+{
+  "brand": {
+    "short": "Solusi Perangkat Medis",
+    "name": "Fujian Medical Engineering"
+  },
+  "nav": {
+    "about": "Tentang",
+    "services": "Layanan",
+    "industries": "Industri",
+    "contact": "Kontak",
+    "cta": "Minta Konsultasi",
+    "open": "Buka menu",
+    "close": "Tutup menu"
+  },
+  "hero": {
+    "badge": "Landing Page Vue Dasar",
+    "title": "Solusi rekayasa medis yang siap untuk merek healthcare modern.",
+    "description": "Fujian Medical Engineering ditampilkan di sini sebagai starter landing page yang rapi untuk rekayasa alat medis, integrasi produk, dukungan manufaktur, dan layanan siklus hidup produk.",
+    "primaryCta": "Hubungi Tim Kami",
+    "secondaryCta": "Lihat Layanan",
+    "highlights": {
+      "engineering": {
+        "title": "Rekayasa",
+        "description": "Pengembangan prototipe, kustomisasi produk, dan integrasi sistem untuk program peralatan kesehatan."
+      },
+      "production": {
+        "title": "Produksi",
+        "description": "Dukungan yang skalabel untuk sourcing, koordinasi perakitan, dan persiapan peluncuran lintas lini perangkat."
+      },
+      "support": {
+        "title": "Dukungan",
+        "description": "Dokumentasi, pelatihan, dan perencanaan layanan untuk distributor dan tim rumah sakit."
+      }
+    },
+    "panel": {
+      "label": "Kenapa starter ini cocok",
+      "title": "Struktur yang bisa dipakai ulang untuk brand medical engineering",
+      "description": "Layout ini dibuat agar mudah dikembangkan dengan produk nyata, sertifikasi, brosur, studi kasus, dan alur inquiry.",
+      "cards": {
+        "fast": {
+          "title": "Cepat dikustomisasi",
+          "description": "Ganti copy, warna, section, dan link tanpa mengubah struktur inti project."
+        },
+        "compliance": {
+          "title": "Nada yang cocok untuk healthcare",
+          "description": "Dirancang untuk menyampaikan keandalan, kejelasan, dan rasa percaya diri teknis bagi pembeli B2B."
+        }
+      },
+      "noteTitle": "Yang sudah termasuk",
+      "noteDescription": "Layout responsif, header sticky, dukungan multi-bahasa, dan area kontak placeholder yang siap diisi detail perusahaan Anda."
+    }
+  },
+  "about": {
+    "eyebrow": "Gambaran Perusahaan",
+    "title": "Dibuat sebagai titik awal yang kuat untuk website perusahaan medical engineering.",
+    "description": "Project dasar ini menempatkan Fujian Medical Engineering sebagai partner teknis yang andal untuk produsen healthcare, distributor, dan pembeli institusi.",
+    "cards": {
+      "mission": {
+        "kicker": "Misi",
+        "title": "Solusi praktis untuk pengiriman peralatan kesehatan",
+        "description": "Gunakan area ini untuk menjelaskan misi perusahaan, kompetensi inti, dan nilai yang Anda bawa ke pengembangan produk atau ekspansi pasar."
+      },
+      "quality": {
+        "kicker": "Kualitas",
+        "title": "Proses yang terstruktur dengan eksekusi berfokus pada kualitas",
+        "description": "Bagian ini bisa diperluas dengan pendekatan QA internal, kontrol manufaktur, workflow pengujian, dan kesiapan dokumentasi Anda."
+      },
+      "partnership": {
+        "kicker": "Kemitraan",
+        "title": "Kolaborasi fleksibel untuk OEM, ODM, dan distribusi",
+        "description": "Posisikan brand untuk kemitraan jangka panjang dengan rumah sakit, tim procurement, distributor, dan program private-label device."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Layanan Inti",
+    "title": "Rangkaian layanan yang disesuaikan untuk pengembangan perangkat dan pengiriman komersial.",
+    "description": "Kartu-kartu ini dibuat generik secara sengaja agar mudah disesuaikan dengan scope produk dan engineering Anda.",
+    "cards": {
+      "engineering": {
+        "title": "Rekayasa Perangkat",
+        "description": "Ubah ide menjadi konsep alat yang layak secara komersial dengan proses teknis yang terstruktur.",
+        "points": [
+          "Penyempurnaan konsep dan pemetaan kebutuhan",
+          "Perencanaan integrasi subsistem dan komponen",
+          "Koordinasi teknis prototipe dan pra-peluncuran"
+        ]
+      },
+      "manufacturing": {
+        "title": "Dukungan Manufaktur",
+        "description": "Koordinasikan aktivitas kesiapan produksi agar rollout lebih terkontrol dan alignment supplier lebih jelas.",
+        "points": [
+          "Perencanaan workflow perakitan",
+          "Koordinasi supplier dan komponen",
+          "Persiapan peluncuran dan dukungan scale-up"
+        ]
+      },
+      "compliance": {
+        "title": "Dokumentasi & Kepatuhan",
+        "description": "Rapikan materi terkait produk agar buyer, partner, dan tim internal bisa bergerak lebih cepat.",
+        "points": [
+          "Dukungan penyusunan technical file",
+          "Manual, panduan, dan aset pelatihan",
+          "Workflow dokumentasi untuk masuk pasar"
+        ]
+      },
+      "lifecycle": {
+        "title": "Layanan Siklus Hidup",
+        "description": "Dukung hubungan pelanggan jangka panjang dengan perencanaan maintenance dan koordinasi after-sales.",
+        "points": [
+          "Perencanaan servis dan logika spare part",
+          "Materi onboarding distributor",
+          "Dokumentasi dukungan operasional"
+        ]
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Area Aplikasi",
+    "title": "Dirancang untuk berbagai skenario healthcare dan komersialisasi perangkat.",
+    "description": "Gunakan blok-blok ini untuk menunjukkan segmen bisnis yang Anda layani atau memperkenalkan keluarga produk Anda.",
+    "cards": {
+      "hospital": {
+        "kicker": "Rumah Sakit",
+        "title": "Program peralatan klinis dan rumah sakit",
+        "description": "Tampilkan solusi Anda untuk lingkungan healthcare garis depan di mana stabilitas, kemudahan penggunaan, dan uptime sangat penting."
+      },
+      "diagnostics": {
+        "kicker": "Diagnostik",
+        "title": "Dukungan produk testing dan diagnostik",
+        "description": "Tunjukkan bagaimana kemampuan engineering atau supply Anda membantu brand diagnostik meningkatkan deployment dan performa lapangan."
+      },
+      "rehab": {
+        "kicker": "Rehabilitasi",
+        "title": "Kategori perangkat rehabilitasi dan terapi",
+        "description": "Sesuaikan kartu ini untuk fisioterapi, mobility support, monitoring pasien, atau lini produk home-care."
+      },
+      "oem": {
+        "kicker": "OEM / ODM",
+        "title": "Kemitraan private-label dan manufaktur kustom",
+        "description": "Sorot kemampuan Anda untuk berkolaborasi dengan brand luar negeri, channel partner, dan program produk berbasis procurement."
+      }
+    }
+  },
+  "stats": {
+    "eyebrow": "Sinyal Kepercayaan",
+    "title": "Metrik dan proof point yang jelas membuat situs terasa lebih kredibel.",
+    "description": "Angka-angka di bawah ini masih placeholder. Ganti dengan milestone perusahaan, sertifikasi, kapasitas pabrik, atau cakupan ekspor yang nyata.",
+    "items": [
+      {
+        "value": "10+",
+        "label": "Tahun Pengalaman",
+        "description": "Gunakan angka headline yang kuat untuk sejarah perusahaan, pengalaman engineering, atau track record manufaktur."
+      },
+      {
+        "value": "24/7",
+        "label": "Siap Layanan",
+        "description": "Tampilkan respons dukungan atau cakupan distributor regional jika itu penting untuk positioning Anda."
+      },
+      {
+        "value": "OEM / ODM",
+        "label": "Model Fleksibel",
+        "description": "Komunikasikan format komersial yang Anda dukung untuk pembeli alat medis dan channel partner."
+      },
+      {
+        "value": "Global",
+        "label": "Siap Dokumentasi",
+        "description": "Tekankan orientasi ekspor, dukungan multi-bahasa, atau kesiapan dokumentasi untuk banyak pasar."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Kontak",
+    "title": "Siap mengubah starter ini menjadi website perusahaan Anda?",
+    "description": "Ganti placeholder di bawah dengan detail kontak asli, alur CRM, embedded form, atau link WhatsApp / email Anda.",
+    "cards": {
+      "email": {
+        "label": "Email",
+        "value": "business@your-domain.com"
+      },
+      "phone": {
+        "label": "Telepon",
+        "value": "+00 123 456 7890"
+      },
+      "address": {
+        "label": "Alamat",
+        "value": "Tambahkan alamat kantor atau pabrik Anda di sini"
+      }
+    },
+    "form": {
+      "eyebrow": "Blok inquiry",
+      "title": "Gunakan bagian ini untuk form lead Anda yang sebenarnya",
+      "description": "Saat ini masih berupa placeholder yang sudah di-style agar bisa cepat diganti dengan form library, endpoint backend, atau widget kontak eksternal.",
+      "fields": {
+        "name": "Nama",
+        "email": "Email",
+        "company": "Perusahaan",
+        "message": "Pesan"
+      },
+      "placeholders": {
+        "name": "Nama kontak Anda",
+        "email": "your.email@company.com",
+        "company": "Rumah sakit, distributor, atau nama brand",
+        "message": "Ceritakan project, target market, kategori produk, atau permintaan partnership Anda"
+      },
+      "submit": "Ganti dengan Form Aktif",
+      "note": "UI placeholder sudah disiapkan"
+    }
+  },
+  "footer": {
+    "copy": "Landing page Vue dasar untuk Fujian Medical Engineering."
+  }
+}

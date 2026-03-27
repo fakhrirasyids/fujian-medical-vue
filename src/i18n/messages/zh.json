@@ -1,0 +1,213 @@
+{
+  "brand": {
+    "short": "医疗设备解决方案",
+    "name": "Fujian Medical Engineering"
+  },
+  "nav": {
+    "about": "关于我们",
+    "services": "服务",
+    "industries": "行业领域",
+    "contact": "联系",
+    "cta": "预约咨询",
+    "open": "打开菜单",
+    "close": "关闭菜单"
+  },
+  "hero": {
+    "badge": "基础 Vue 落地页",
+    "title": "面向现代医疗品牌的工程化医疗解决方案。",
+    "description": "这里将 Fujian Medical Engineering 作为一个整洁的落地页起点，用于展示医疗器械工程、产品集成、制造支持以及全生命周期服务。",
+    "primaryCta": "联系团队",
+    "secondaryCta": "查看服务",
+    "highlights": {
+      "engineering": {
+        "title": "工程能力",
+        "description": "适用于医疗设备项目的原型开发、产品定制与系统集成。"
+      },
+      "production": {
+        "title": "生产支持",
+        "description": "为器械产品线提供可扩展的采购、装配协同与上市准备支持。"
+      },
+      "support": {
+        "title": "服务支持",
+        "description": "为经销商与医院团队准备的文档、培训与售后规划。"
+      }
+    },
+    "panel": {
+      "label": "这个 starter 的价值",
+      "title": "适合医疗工程品牌复用的网站结构",
+      "description": "该布局便于后续扩展真实产品、认证信息、宣传册、案例研究以及询盘流程。",
+      "cards": {
+        "fast": {
+          "title": "易于快速定制",
+          "description": "无需改动核心结构，即可替换文案、配色、版块与链接。"
+        },
+        "compliance": {
+          "title": "更符合医疗行业语境",
+          "description": "整体风格强调可靠性、清晰度与技术信任感，更适合 B2B 买家。"
+        }
+      },
+      "noteTitle": "当前已包含",
+      "noteDescription": "响应式布局、吸顶导航、多语言支持，以及可直接替换为真实联系方式的占位联系区。"
+    }
+  },
+  "about": {
+    "eyebrow": "公司概览",
+    "title": "作为医疗工程企业官网的强力起点而构建。",
+    "description": "这个基础项目将 Fujian Medical Engineering 定位为面向医疗制造商、经销商与机构采购方的可靠技术合作伙伴。",
+    "cards": {
+      "mission": {
+        "kicker": "使命",
+        "title": "为医疗设备交付提供务实解决方案",
+        "description": "这里可以填写企业使命、核心能力，以及您在产品开发或市场拓展中所创造的价值。"
+      },
+      "quality": {
+        "kicker": "质量",
+        "title": "以质量为导向的结构化流程",
+        "description": "此区域可扩展展示您的质量体系、制造管控、测试流程以及文档准备能力。"
+      },
+      "partnership": {
+        "kicker": "合作",
+        "title": "适用于 OEM、ODM 与分销合作的灵活模式",
+        "description": "将品牌塑造为医院、采购团队、经销商与贴牌器械项目的长期合作伙伴。"
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "核心服务",
+    "title": "面向器械开发与商业交付的服务组合。",
+    "description": "这些卡片内容故意保持通用，便于您根据真实产品与工程范围进行改写。",
+    "cards": {
+      "engineering": {
+        "title": "器械工程",
+        "description": "通过结构化技术流程，将想法转化为具备商业可行性的设备方案。",
+        "points": [
+          "概念梳理与需求映射",
+          "子系统与零部件集成规划",
+          "原型与上市前技术协同"
+        ]
+      },
+      "manufacturing": {
+        "title": "制造支持",
+        "description": "协调量产准备活动，提升项目落地控制力与供应链协同性。",
+        "points": [
+          "装配流程规划",
+          "供应商与部件协同",
+          "上市准备与爬坡支持"
+        ]
+      },
+      "compliance": {
+        "title": "文档与合规",
+        "description": "整理面向产品的关键资料，帮助买方、合作伙伴与内部团队更快推进项目。",
+        "points": [
+          "技术资料准备支持",
+          "手册、指南与培训素材",
+          "市场准入文档流程"
+        ]
+      },
+      "lifecycle": {
+        "title": "全生命周期服务",
+        "description": "通过维护规划与售后协同，支撑长期客户关系。",
+        "points": [
+          "服务规划与备件逻辑",
+          "经销商培训资料",
+          "运营支持文档"
+        ]
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "应用场景",
+    "title": "适用于多种医疗与器械商业化场景。",
+    "description": "这些模块可用于展示您覆盖的业务领域，或介绍不同产品家族。",
+    "cards": {
+      "hospital": {
+        "kicker": "医院场景",
+        "title": "临床与医院设备项目",
+        "description": "展示您在一线医疗环境中的解决方案能力，突出稳定性、易用性与持续运行能力。"
+      },
+      "diagnostics": {
+        "kicker": "诊断领域",
+        "title": "检测与诊断产品支持",
+        "description": "说明您的工程或供应能力如何帮助诊断品牌提升部署效率与现场表现。"
+      },
+      "rehab": {
+        "kicker": "康复领域",
+        "title": "康复与治疗类设备",
+        "description": "此卡片可改写为理疗、辅助行动、患者监测或家庭护理产品线。"
+      },
+      "oem": {
+        "kicker": "OEM / ODM",
+        "title": "贴牌与定制制造合作",
+        "description": "突出您与海外品牌、渠道伙伴以及采购驱动型产品项目合作的能力。"
+      }
+    }
+  },
+  "stats": {
+    "eyebrow": "信任背书",
+    "title": "清晰的指标与事实能显著提升网站可信度。",
+    "description": "以下数字均为占位示例。请替换为真实的公司里程碑、认证、工厂数据或出口覆盖范围。",
+    "items": [
+      {
+        "value": "10+",
+        "label": "年经验",
+        "description": "可用于展示企业历史、工程经验或制造履历等核心数据。"
+      },
+      {
+        "value": "24/7",
+        "label": "服务响应",
+        "description": "如果售后响应或区域经销覆盖是核心卖点，可在此突出展示。"
+      },
+      {
+        "value": "OEM / ODM",
+        "label": "合作模式灵活",
+        "description": "清晰说明您可支持的商业合作方式，方便医疗设备买家快速判断匹配度。"
+      },
+      {
+        "value": "Global",
+        "label": "文档友好",
+        "description": "可强调出口导向、多语言支持或多市场文档准备能力。"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "联系",
+    "title": "准备把这个 starter 改成正式官网了吗？",
+    "description": "请将下方占位内容替换为真实联系方式、CRM 流程、嵌入式表单，或 WhatsApp / 邮件链接。",
+    "cards": {
+      "email": {
+        "label": "邮箱",
+        "value": "business@your-domain.com"
+      },
+      "phone": {
+        "label": "电话",
+        "value": "+00 123 456 7890"
+      },
+      "address": {
+        "label": "地址",
+        "value": "在这里填写您的办公室或工厂地址"
+      }
+    },
+    "form": {
+      "eyebrow": "询盘模块",
+      "title": "这里可以替换成真实的线索表单",
+      "description": "当前为已经设计好的占位界面，便于您快速替换为表单库、后端接口或第三方联系组件。",
+      "fields": {
+        "name": "姓名",
+        "email": "邮箱",
+        "company": "公司",
+        "message": "留言"
+      },
+      "placeholders": {
+        "name": "您的联系人姓名",
+        "email": "your.email@company.com",
+        "company": "医院、经销商或品牌名称",
+        "message": "请简要说明您的项目、目标市场、产品类别或合作需求"
+      },
+      "submit": "替换为真实表单",
+      "note": "已包含占位 UI"
+    }
+  },
+  "footer": {
+    "copy": "Fujian Medical Engineering 的基础 Vue 落地页。"
+  }
+}
