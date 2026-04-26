@@ -1,213 +1,237 @@
 {
   "brand": {
-    "short": "医疗设备解决方案",
-    "name": "Fujian Medical Engineering"
+    "name": "Fujian Medical Engineering",
+    "legal": "福建医工设计院有限公司"
+  },
+  "language": {
+    "label": "语言",
+    "options": {
+      "en": "English",
+      "id": "Indonesia",
+      "zh": "中文"
+    }
   },
   "nav": {
+    "home": "首页",
     "about": "关于我们",
     "services": "服务",
-    "industries": "行业领域",
-    "contact": "联系",
-    "cta": "预约咨询",
-    "open": "打开菜单",
-    "close": "关闭菜单"
+    "portfolio": "项目业绩",
+    "contact": "联系我们",
+    "openMenu": "打开导航",
+    "closeMenu": "关闭导航"
   },
   "hero": {
-    "badge": "基础 Vue 落地页",
-    "title": "面向现代医疗品牌的工程化医疗解决方案。",
-    "description": "这里将 Fujian Medical Engineering 作为一个整洁的落地页起点，用于展示医疗器械工程、产品集成、制造支持以及全生命周期服务。",
-    "primaryCta": "联系团队",
-    "secondaryCta": "查看服务",
-    "highlights": {
-      "engineering": {
-        "title": "工程能力",
-        "description": "适用于医疗设备项目的原型开发、产品定制与系统集成。"
-      },
-      "production": {
-        "title": "生产支持",
-        "description": "为器械产品线提供可扩展的采购、装配协同与上市准备支持。"
-      },
-      "support": {
-        "title": "服务支持",
-        "description": "为经销商与医院团队准备的文档、培训与售后规划。"
-      }
-    },
-    "panel": {
-      "label": "这个 starter 的价值",
-      "title": "适合医疗工程品牌复用的网站结构",
-      "description": "该布局便于后续扩展真实产品、认证信息、宣传册、案例研究以及询盘流程。",
-      "cards": {
-        "fast": {
-          "title": "易于快速定制",
-          "description": "无需改动核心结构，即可替换文案、配色、版块与链接。"
-        },
-        "compliance": {
-          "title": "更符合医疗行业语境",
-          "description": "整体风格强调可靠性、清晰度与技术信任感，更适合 B2B 买家。"
-        }
-      },
-      "noteTitle": "当前已包含",
-      "noteDescription": "响应式布局、吸顶导航、多语言支持，以及可直接替换为真实联系方式的占位联系区。"
-    }
+    "title": "为关键基础设施的未来提供工程能力",
+    "description": "面向医疗、能源与先进工业设施的一体化 EPC、工程设计与项目管理服务。",
+    "cta": "联系我们"
   },
   "about": {
-    "eyebrow": "公司概览",
-    "title": "作为医疗工程企业官网的强力起点而构建。",
-    "description": "这个基础项目将 Fujian Medical Engineering 定位为面向医疗制造商、经销商与机构采购方的可靠技术合作伙伴。",
-    "cards": {
-      "mission": {
-        "kicker": "使命",
-        "title": "为医疗设备交付提供务实解决方案",
-        "description": "这里可以填写企业使命、核心能力，以及您在产品开发或市场拓展中所创造的价值。"
-      },
-      "quality": {
-        "kicker": "质量",
-        "title": "以质量为导向的结构化流程",
-        "description": "此区域可扩展展示您的质量体系、制造管控、测试流程以及文档准备能力。"
-      },
-      "partnership": {
-        "kicker": "合作",
-        "title": "适用于 OEM、ODM 与分销合作的灵活模式",
-        "description": "将品牌塑造为医院、采购团队、经销商与贴牌器械项目的长期合作伙伴。"
-      }
-    }
-  },
-  "services": {
-    "eyebrow": "核心服务",
-    "title": "面向器械开发与商业交付的服务组合。",
-    "description": "这些卡片内容故意保持通用，便于您根据真实产品与工程范围进行改写。",
-    "cards": {
-      "engineering": {
-        "title": "器械工程",
-        "description": "通过结构化技术流程，将想法转化为具备商业可行性的设备方案。",
-        "points": [
-          "概念梳理与需求映射",
-          "子系统与零部件集成规划",
-          "原型与上市前技术协同"
-        ]
-      },
-      "manufacturing": {
-        "title": "制造支持",
-        "description": "协调量产准备活动，提升项目落地控制力与供应链协同性。",
-        "points": [
-          "装配流程规划",
-          "供应商与部件协同",
-          "上市准备与爬坡支持"
-        ]
-      },
-      "compliance": {
-        "title": "文档与合规",
-        "description": "整理面向产品的关键资料，帮助买方、合作伙伴与内部团队更快推进项目。",
-        "points": [
-          "技术资料准备支持",
-          "手册、指南与培训素材",
-          "市场准入文档流程"
-        ]
-      },
-      "lifecycle": {
-        "title": "全生命周期服务",
-        "description": "通过维护规划与售后协同，支撑长期客户关系。",
-        "points": [
-          "服务规划与备件逻辑",
-          "经销商培训资料",
-          "运营支持文档"
-        ]
-      }
-    }
-  },
-  "industries": {
-    "eyebrow": "应用场景",
-    "title": "适用于多种医疗与器械商业化场景。",
-    "description": "这些模块可用于展示您覆盖的业务领域，或介绍不同产品家族。",
-    "cards": {
-      "hospital": {
-        "kicker": "医院场景",
-        "title": "临床与医院设备项目",
-        "description": "展示您在一线医疗环境中的解决方案能力，突出稳定性、易用性与持续运行能力。"
-      },
-      "diagnostics": {
-        "kicker": "诊断领域",
-        "title": "检测与诊断产品支持",
-        "description": "说明您的工程或供应能力如何帮助诊断品牌提升部署效率与现场表现。"
-      },
-      "rehab": {
-        "kicker": "康复领域",
-        "title": "康复与治疗类设备",
-        "description": "此卡片可改写为理疗、辅助行动、患者监测或家庭护理产品线。"
-      },
-      "oem": {
-        "kicker": "OEM / ODM",
-        "title": "贴牌与定制制造合作",
-        "description": "突出您与海外品牌、渠道伙伴以及采购驱动型产品项目合作的能力。"
-      }
-    }
-  },
-  "stats": {
-    "eyebrow": "信任背书",
-    "title": "清晰的指标与事实能显著提升网站可信度。",
-    "description": "以下数字均为占位示例。请替换为真实的公司里程碑、认证、工厂数据或出口覆盖范围。",
-    "items": [
+    "badge": "关于我们",
+    "title": "福建医工设计院",
+    "imageAlt": "福建医工设计院办公楼",
+    "paragraphs": [
+      "福建医工设计院有限公司是一家具备国家资质的工程设计机构，专注于为复杂、高标准设施提供一体化基础设施解决方案。",
+      "依托多专业协同能力与先进数字化工程技术，我们可提供从可研咨询到 EPC 实施与调试交付的全流程服务。"
+    ],
+    "quote": "我们不只是建造建筑。我们打造符合监管要求、能够稳定运行并面向未来的工程环境。",
+    "stats": [
       {
-        "value": "10+",
-        "label": "年经验",
-        "description": "可用于展示企业历史、工程经验或制造履历等核心数据。"
+        "value": "400+",
+        "label": "已完成项目"
       },
       {
-        "value": "24/7",
-        "label": "服务响应",
-        "description": "如果售后响应或区域经销覆盖是核心卖点，可在此突出展示。"
+        "value": "300",
+        "label": "团队成员"
       },
       {
-        "value": "OEM / ODM",
-        "label": "合作模式灵活",
-        "description": "清晰说明您可支持的商业合作方式，方便医疗设备买家快速判断匹配度。"
+        "value": "30",
+        "label": "年行业经验"
       },
       {
-        "value": "Global",
-        "label": "文档友好",
-        "description": "可强调出口导向、多语言支持或多市场文档准备能力。"
+        "value": "20+",
+        "label": "资质认证"
       }
     ]
   },
-  "contact": {
-    "eyebrow": "联系",
-    "title": "准备把这个 starter 改成正式官网了吗？",
-    "description": "请将下方占位内容替换为真实联系方式、CRM 流程、嵌入式表单，或 WhatsApp / 邮件链接。",
-    "cards": {
-      "email": {
-        "label": "邮箱",
-        "value": "business@your-domain.com"
+  "services": {
+    "badge": "核心服务",
+    "title": "基础设施全生命周期交付",
+    "subtitle": "通过全流程统筹控制，减少项目碎片化与协同损耗。",
+    "items": [
+      {
+        "title": "工程咨询",
+        "description": "开展战略可研与技术策划，优化项目范围、工期与投资配置。"
       },
-      "phone": {
-        "label": "电话",
-        "value": "+00 123 456 7890"
+      {
+        "title": "多专业设计",
+        "description": "统筹建筑、结构、机电、电气与工艺工程的协同设计。"
       },
-      "address": {
-        "label": "地址",
-        "value": "在这里填写您的办公室或工厂地址"
+      {
+        "title": "EPC 总承包",
+        "description": "为受监管项目提供一体化的工程、采购与施工交付服务。"
+      },
+      {
+        "title": "采购管理",
+        "description": "通过供应商选择与供应链协同，保障质量、合规与交付节点。"
+      },
+      {
+        "title": "调试与移交",
+        "description": "通过系统验证与法规对接，确保设施平稳进入运行状态。"
       }
+    ]
+  },
+  "portfolio": {
+    "badge": "项目亮点",
+    "leadValue": "400+",
+    "leadTitle": "已完成项目",
+    "leadDescription": "在受监管基础设施领域持续展现大体量工程交付能力。",
+    "bullets": [
+      "制药工厂",
+      "LNG 接收与储运设施",
+      "工业加工装置",
+      "医疗基础设施"
+    ],
+    "labels": {
+      "location": "地点",
+      "cost": "造价",
+      "projectType": "项目类型",
+      "scope": "范围"
     },
-    "form": {
-      "eyebrow": "询盘模块",
-      "title": "这里可以替换成真实的线索表单",
-      "description": "当前为已经设计好的占位界面，便于您快速替换为表单库、后端接口或第三方联系组件。",
-      "fields": {
-        "name": "姓名",
-        "email": "邮箱",
-        "company": "公司",
-        "message": "留言"
+    "featured": [
+      {
+        "badge": "项目亮点",
+        "title": "与泰国正大集团在中国开展",
+        "titleHighlight": "战略工业项目合作",
+        "summary": "体现了公司在大型生化与农业 EPC 体系中的设计协同与综合交付能力。",
+        "projectHeaders": {
+          "name": "项目名称",
+          "industry": "行业"
+        },
+        "projects": [
+          { "name": "蒲城正大生化搬迁改造项目", "industry": "工业生化" },
+          { "name": "饲料级金霉素半成品仓库", "industry": "医药/饲料添加剂" },
+          { "name": "水溶性金霉素生产线", "industry": "高级生化" },
+          { "name": "正大奥格有机肥项目（10万吨/年）", "industry": "农工业" }
+        ]
       },
-      "placeholders": {
-        "name": "您的联系人姓名",
-        "email": "your.email@company.com",
-        "company": "医院、经销商或品牌名称",
-        "message": "请简要说明您的项目、目标市场、产品类别或合作需求"
+      {
+        "badge": "项目亮点",
+        "title": "中东拓展 - 阿曼 EPC 项目",
+        "titleHighlight": "（进行中）",
+        "summary": "通过高价值、国际化的大型项目交付，持续扩大公司的全球 EPC 执行版图。",
+        "location": "阿曼萨拉拉自由贸易区",
+        "cost": "5000万美元",
+        "projectType": "工程设计、采购、施工",
+        "scope": "食品级原料加工设施"
+      }
+    ],
+    "otherProjects": {
+      "title": "其他项目",
+      "headers": {
+        "name": "项目名称",
+        "industry": "行业"
       },
-      "submit": "替换为真实表单",
-      "note": "已包含占位 UI"
+      "rows": [
+        {
+          "name": "福建凯利生物科技",
+          "industry": "医疗基础设施"
+        },
+        {
+          "name": "高斯新材料",
+          "industry": "制药工厂"
+        },
+        {
+          "name": "海西工业园区",
+          "industry": "工业加工设施"
+        },
+        {
+          "name": "福建凯利生物科技",
+          "industry": "医疗基础设施"
+        },
+        {
+          "name": "福建高龙海洋生物工程",
+          "industry": "医疗基础设施"
+        },
+        {
+          "name": "惠凯化工惠昌电子级酸",
+          "industry": "工业加工设施"
+        },
+        {
+          "name": "华阴东方城，渭南市",
+          "industry": "工业加工设施"
+        }
+      ]
+    },
+    "certifications": {
+      "badge": "资质概览",
+      "title": "具备执行资质，也具备引领能力。",
+      "headers": {
+        "qualification": "资质 / 认证",
+        "authority": "颁发机构"
+      },
+      "rows": [
+        {
+          "qualification": "工程设计甲级资质",
+          "subtitle": "化工石化行业、建筑工程甲级（建筑工程）",
+          "authority": "中华人民共和国住房和城乡建设部"
+        },
+        {
+          "qualification": "专项工程设计乙级资质",
+          "subtitle": "环境工程（水污染防治）",
+          "authority": "福建省住房和城乡建设厅"
+        },
+        {
+          "qualification": "专项工程设计乙级资质",
+          "subtitle": "市政工程（环境卫生）",
+          "authority": "福建省住房和城乡建设厅"
+        },
+        {
+          "qualification": "专项工程设计乙级资质",
+          "subtitle": "市政工程（城镇燃气工程）",
+          "authority": "福建省住房和城乡建设厅"
+        },
+        {
+          "qualification": "工程咨询甲级资质",
+          "subtitle": "",
+          "authority": "中国工程咨询协会"
+        },
+        {
+          "qualification": "城乡规划编制乙级资质",
+          "subtitle": "",
+          "authority": "福建省自然资源厅"
+        },
+        {
+          "qualification": "高新技术企业认证",
+          "subtitle": "",
+          "authority": "福建省科技厅、福建省财政厅、国家税务总局福建省税务局"
+        }
+      ]
     }
   },
   "footer": {
-    "copy": "Fujian Medical Engineering 的基础 Vue 落地页。"
+    "companySuffix": "设计院有限公司",
+    "description": "国家级工程设计机构，专注于医药、化工与能源领域的综合工程服务。",
+    "quickLinks": {
+      "title": "快捷链接",
+      "items": {
+        "about": "关于我们",
+        "services": "服务",
+        "portfolio": "项目业绩",
+        "contact": "联系我们"
+      }
+    },
+    "fieldsTitle": "工程领域",
+    "fields": [
+      "医药与化工工程",
+      "环保工程",
+      "新能源工程",
+      "石油与储运工程",
+      "市政工程"
+    ],
+    "contactTitle": "联系信息",
+    "address": "中国福建省福州市高新区乌龙江南大道 26-1 号医工科技大厦北楼",
+    "phone": "+65 87810302",
+    "email": "admin@ygsjy.com",
+    "rights": "版权所有。"
   }
 }

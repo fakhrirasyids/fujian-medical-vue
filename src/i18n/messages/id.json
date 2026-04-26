@@ -1,213 +1,237 @@
 {
   "brand": {
-    "short": "Solusi Perangkat Medis",
-    "name": "Fujian Medical Engineering"
+    "name": "Fujian Medical Engineering",
+    "legal": "Fujian Medical Engineering Design Institute Co., Ltd."
+  },
+  "language": {
+    "label": "Bahasa",
+    "options": {
+      "en": "English",
+      "id": "Indonesia",
+      "zh": "中文"
+    }
   },
   "nav": {
-    "about": "Tentang",
+    "home": "Beranda",
+    "about": "Tentang Kami",
     "services": "Layanan",
-    "industries": "Industri",
+    "portfolio": "Portofolio",
     "contact": "Kontak",
-    "cta": "Minta Konsultasi",
-    "open": "Buka menu",
-    "close": "Tutup menu"
+    "openMenu": "Buka navigasi",
+    "closeMenu": "Tutup navigasi"
   },
   "hero": {
-    "badge": "Landing Page Vue Dasar",
-    "title": "Solusi rekayasa medis yang siap untuk merek healthcare modern.",
-    "description": "Fujian Medical Engineering ditampilkan di sini sebagai starter landing page yang rapi untuk rekayasa alat medis, integrasi produk, dukungan manufaktur, dan layanan siklus hidup produk.",
-    "primaryCta": "Hubungi Tim Kami",
-    "secondaryCta": "Lihat Layanan",
-    "highlights": {
-      "engineering": {
-        "title": "Rekayasa",
-        "description": "Pengembangan prototipe, kustomisasi produk, dan integrasi sistem untuk program peralatan kesehatan."
-      },
-      "production": {
-        "title": "Produksi",
-        "description": "Dukungan yang skalabel untuk sourcing, koordinasi perakitan, dan persiapan peluncuran lintas lini perangkat."
-      },
-      "support": {
-        "title": "Dukungan",
-        "description": "Dokumentasi, pelatihan, dan perencanaan layanan untuk distributor dan tim rumah sakit."
-      }
-    },
-    "panel": {
-      "label": "Kenapa starter ini cocok",
-      "title": "Struktur yang bisa dipakai ulang untuk brand medical engineering",
-      "description": "Layout ini dibuat agar mudah dikembangkan dengan produk nyata, sertifikasi, brosur, studi kasus, dan alur inquiry.",
-      "cards": {
-        "fast": {
-          "title": "Cepat dikustomisasi",
-          "description": "Ganti copy, warna, section, dan link tanpa mengubah struktur inti project."
-        },
-        "compliance": {
-          "title": "Nada yang cocok untuk healthcare",
-          "description": "Dirancang untuk menyampaikan keandalan, kejelasan, dan rasa percaya diri teknis bagi pembeli B2B."
-        }
-      },
-      "noteTitle": "Yang sudah termasuk",
-      "noteDescription": "Layout responsif, header sticky, dukungan multi-bahasa, dan area kontak placeholder yang siap diisi detail perusahaan Anda."
-    }
+    "title": "Merekayasa Masa Depan Infrastruktur Kritis",
+    "description": "Layanan EPC terpadu, desain engineering, dan manajemen proyek untuk fasilitas kesehatan, energi, dan industri berteknologi tinggi.",
+    "cta": "Hubungi Kami"
   },
   "about": {
-    "eyebrow": "Gambaran Perusahaan",
-    "title": "Dibuat sebagai titik awal yang kuat untuk website perusahaan medical engineering.",
-    "description": "Project dasar ini menempatkan Fujian Medical Engineering sebagai partner teknis yang andal untuk produsen healthcare, distributor, dan pembeli institusi.",
-    "cards": {
-      "mission": {
-        "kicker": "Misi",
-        "title": "Solusi praktis untuk pengiriman peralatan kesehatan",
-        "description": "Gunakan area ini untuk menjelaskan misi perusahaan, kompetensi inti, dan nilai yang Anda bawa ke pengembangan produk atau ekspansi pasar."
-      },
-      "quality": {
-        "kicker": "Kualitas",
-        "title": "Proses yang terstruktur dengan eksekusi berfokus pada kualitas",
-        "description": "Bagian ini bisa diperluas dengan pendekatan QA internal, kontrol manufaktur, workflow pengujian, dan kesiapan dokumentasi Anda."
-      },
-      "partnership": {
-        "kicker": "Kemitraan",
-        "title": "Kolaborasi fleksibel untuk OEM, ODM, dan distribusi",
-        "description": "Posisikan brand untuk kemitraan jangka panjang dengan rumah sakit, tim procurement, distributor, dan program private-label device."
-      }
-    }
-  },
-  "services": {
-    "eyebrow": "Layanan Inti",
-    "title": "Rangkaian layanan yang disesuaikan untuk pengembangan perangkat dan pengiriman komersial.",
-    "description": "Kartu-kartu ini dibuat generik secara sengaja agar mudah disesuaikan dengan scope produk dan engineering Anda.",
-    "cards": {
-      "engineering": {
-        "title": "Rekayasa Perangkat",
-        "description": "Ubah ide menjadi konsep alat yang layak secara komersial dengan proses teknis yang terstruktur.",
-        "points": [
-          "Penyempurnaan konsep dan pemetaan kebutuhan",
-          "Perencanaan integrasi subsistem dan komponen",
-          "Koordinasi teknis prototipe dan pra-peluncuran"
-        ]
-      },
-      "manufacturing": {
-        "title": "Dukungan Manufaktur",
-        "description": "Koordinasikan aktivitas kesiapan produksi agar rollout lebih terkontrol dan alignment supplier lebih jelas.",
-        "points": [
-          "Perencanaan workflow perakitan",
-          "Koordinasi supplier dan komponen",
-          "Persiapan peluncuran dan dukungan scale-up"
-        ]
-      },
-      "compliance": {
-        "title": "Dokumentasi & Kepatuhan",
-        "description": "Rapikan materi terkait produk agar buyer, partner, dan tim internal bisa bergerak lebih cepat.",
-        "points": [
-          "Dukungan penyusunan technical file",
-          "Manual, panduan, dan aset pelatihan",
-          "Workflow dokumentasi untuk masuk pasar"
-        ]
-      },
-      "lifecycle": {
-        "title": "Layanan Siklus Hidup",
-        "description": "Dukung hubungan pelanggan jangka panjang dengan perencanaan maintenance dan koordinasi after-sales.",
-        "points": [
-          "Perencanaan servis dan logika spare part",
-          "Materi onboarding distributor",
-          "Dokumentasi dukungan operasional"
-        ]
-      }
-    }
-  },
-  "industries": {
-    "eyebrow": "Area Aplikasi",
-    "title": "Dirancang untuk berbagai skenario healthcare dan komersialisasi perangkat.",
-    "description": "Gunakan blok-blok ini untuk menunjukkan segmen bisnis yang Anda layani atau memperkenalkan keluarga produk Anda.",
-    "cards": {
-      "hospital": {
-        "kicker": "Rumah Sakit",
-        "title": "Program peralatan klinis dan rumah sakit",
-        "description": "Tampilkan solusi Anda untuk lingkungan healthcare garis depan di mana stabilitas, kemudahan penggunaan, dan uptime sangat penting."
-      },
-      "diagnostics": {
-        "kicker": "Diagnostik",
-        "title": "Dukungan produk testing dan diagnostik",
-        "description": "Tunjukkan bagaimana kemampuan engineering atau supply Anda membantu brand diagnostik meningkatkan deployment dan performa lapangan."
-      },
-      "rehab": {
-        "kicker": "Rehabilitasi",
-        "title": "Kategori perangkat rehabilitasi dan terapi",
-        "description": "Sesuaikan kartu ini untuk fisioterapi, mobility support, monitoring pasien, atau lini produk home-care."
-      },
-      "oem": {
-        "kicker": "OEM / ODM",
-        "title": "Kemitraan private-label dan manufaktur kustom",
-        "description": "Sorot kemampuan Anda untuk berkolaborasi dengan brand luar negeri, channel partner, dan program produk berbasis procurement."
-      }
-    }
-  },
-  "stats": {
-    "eyebrow": "Sinyal Kepercayaan",
-    "title": "Metrik dan proof point yang jelas membuat situs terasa lebih kredibel.",
-    "description": "Angka-angka di bawah ini masih placeholder. Ganti dengan milestone perusahaan, sertifikasi, kapasitas pabrik, atau cakupan ekspor yang nyata.",
-    "items": [
+    "badge": "Tentang Kami",
+    "title": "Fujian Medical Engineering Design Institute",
+    "imageAlt": "Gedung kampus Fujian Medical Engineering",
+    "paragraphs": [
+      "Fujian Medical Engineering Design Institute Co., Ltd. adalah institut engineering berkualifikasi nasional yang menghadirkan solusi infrastruktur terintegrasi untuk fasilitas kompleks dan berperforma tinggi.",
+      "Dengan keahlian multidisiplin dan kapabilitas digital engineering yang maju, kami menyediakan layanan end-to-end mulai dari studi kelayakan hingga EPC execution dan commissioning."
+    ],
+    "quote": "Kami tidak sekadar membangun gedung. Kami merekayasa lingkungan yang teregulasi, siap operasional, dan siap masa depan.",
+    "stats": [
       {
-        "value": "10+",
-        "label": "Tahun Pengalaman",
-        "description": "Gunakan angka headline yang kuat untuk sejarah perusahaan, pengalaman engineering, atau track record manufaktur."
+        "value": "400+",
+        "label": "Proyek Selesai"
       },
       {
-        "value": "24/7",
-        "label": "Siap Layanan",
-        "description": "Tampilkan respons dukungan atau cakupan distributor regional jika itu penting untuk positioning Anda."
+        "value": "300",
+        "label": "Anggota Tim"
       },
       {
-        "value": "OEM / ODM",
-        "label": "Model Fleksibel",
-        "description": "Komunikasikan format komersial yang Anda dukung untuk pembeli alat medis dan channel partner."
+        "value": "30",
+        "label": "Tahun Pengalaman"
       },
       {
-        "value": "Global",
-        "label": "Siap Dokumentasi",
-        "description": "Tekankan orientasi ekspor, dukungan multi-bahasa, atau kesiapan dokumentasi untuk banyak pasar."
+        "value": "20+",
+        "label": "Sertifikasi"
       }
     ]
   },
-  "contact": {
-    "eyebrow": "Kontak",
-    "title": "Siap mengubah starter ini menjadi website perusahaan Anda?",
-    "description": "Ganti placeholder di bawah dengan detail kontak asli, alur CRM, embedded form, atau link WhatsApp / email Anda.",
-    "cards": {
-      "email": {
-        "label": "Email",
-        "value": "business@your-domain.com"
+  "services": {
+    "badge": "Layanan Inti",
+    "title": "Pengiriman Siklus Hidup Infrastruktur Secara Penuh",
+    "subtitle": "Kami menghilangkan fragmentasi melalui kendali penuh atas seluruh siklus proyek.",
+    "items": [
+      {
+        "title": "Konsultasi Engineering",
+        "description": "Studi kelayakan strategis dan perencanaan teknis untuk mengoptimalkan lingkup, jadwal, dan alokasi investasi."
       },
-      "phone": {
-        "label": "Telepon",
-        "value": "+00 123 456 7890"
+      {
+        "title": "Desain Multidisiplin",
+        "description": "Engineering arsitektur, struktur, mekanikal, elektrikal, dan proses yang terintegrasi."
       },
-      "address": {
-        "label": "Alamat",
-        "value": "Tambahkan alamat kantor atau pabrik Anda di sini"
+      {
+        "title": "Kontrak EPC",
+        "description": "Pengiriman engineering, procurement, dan construction dalam satu titik kendali untuk proyek teregulasi."
+      },
+      {
+        "title": "Procurement",
+        "description": "Seleksi vendor dan koordinasi rantai pasok yang menjaga kualitas, kepatuhan, dan ketepatan waktu."
+      },
+      {
+        "title": "Commissioning & Handover",
+        "description": "Validasi sistem dan keselarasan regulasi agar fasilitas siap memasuki operasi yang stabil."
       }
+    ]
+  },
+  "portfolio": {
+    "badge": "Sorotan Portofolio",
+    "leadValue": "400+",
+    "leadTitle": "Proyek Selesai",
+    "leadDescription": "Rekam jejak eksekusi skala besar di sektor infrastruktur yang teregulasi.",
+    "bullets": [
+      "Pabrik farmasi",
+      "Terminal LNG",
+      "Fasilitas proses industri",
+      "Infrastruktur kesehatan"
+    ],
+    "labels": {
+      "location": "Lokasi",
+      "cost": "Biaya",
+      "projectType": "Tipe Proyek",
+      "scope": "Cakupan"
     },
-    "form": {
-      "eyebrow": "Blok inquiry",
-      "title": "Gunakan bagian ini untuk form lead Anda yang sebenarnya",
-      "description": "Saat ini masih berupa placeholder yang sudah di-style agar bisa cepat diganti dengan form library, endpoint backend, atau widget kontak eksternal.",
-      "fields": {
-        "name": "Nama",
-        "email": "Email",
-        "company": "Perusahaan",
-        "message": "Pesan"
+    "featured": [
+      {
+        "badge": "Sorotan Portofolio",
+        "title": "Proyek Industri Strategis bersama",
+        "titleHighlight": "CP Group Thailand di China",
+        "summary": "Menunjukkan kapabilitas kolaborasi desain yang kuat pada ekosistem EPC biokimia dan pertanian berskala besar.",
+        "projectHeaders": {
+          "name": "Nama Proyek",
+          "industry": "Industri"
+        },
+        "projects": [
+          { "name": "Pucheng CP Biochemical Relocation & Upgrade", "industry": "Biokimia Industri" },
+          { "name": "Feed Chlortetracycline Semi-finished Warehouse", "industry": "Farmasi / Aditif Pakan" },
+          { "name": "Water-soluble Chlortetracycline Production Line", "industry": "Biokimia Lanjutan" },
+          { "name": "CP Aoge Organic Fertilizer Project (100.000 t/tahun)", "industry": "Agro-Industri" }
+        ]
       },
-      "placeholders": {
-        "name": "Nama kontak Anda",
-        "email": "your.email@company.com",
-        "company": "Rumah sakit, distributor, atau nama brand",
-        "message": "Ceritakan project, target market, kategori produk, atau permintaan partnership Anda"
+      {
+        "badge": "Sorotan Portofolio",
+        "title": "Ekspansi Timur Tengah - Proyek EPC Oman",
+        "titleHighlight": "(Sedang Berjalan)",
+        "summary": "Memperkuat jejak eksekusi EPC global melalui pengiriman proyek internasional bernilai tinggi dalam skala besar.",
+        "location": "Salalah Free Trade Zone, Oman",
+        "cost": "USD 50 Juta",
+        "projectType": "Engineering, Procurement, Konstruksi",
+        "scope": "Fasilitas pengolahan bahan baku food-grade"
+      }
+    ],
+    "otherProjects": {
+      "title": "Proyek Lainnya",
+      "headers": {
+        "name": "Nama Proyek",
+        "industry": "Industri"
       },
-      "submit": "Ganti dengan Form Aktif",
-      "note": "UI placeholder sudah disiapkan"
+      "rows": [
+        {
+          "name": "Fujian Kalili Biotechnology",
+          "industry": "Infrastruktur kesehatan"
+        },
+        {
+          "name": "Gaosi New Materials",
+          "industry": "Pabrik farmasi"
+        },
+        {
+          "name": "The Haixi Industrial Park",
+          "industry": "Fasilitas proses industri"
+        },
+        {
+          "name": "Fujian Kalili Biotechnology",
+          "industry": "Infrastruktur kesehatan"
+        },
+        {
+          "name": "Fujian Gaolong Marine Biological Engineering",
+          "industry": "Infrastruktur kesehatan"
+        },
+        {
+          "name": "Huikai Chemical Huichang Electronic Grade Acid",
+          "industry": "Fasilitas proses industri"
+        },
+        {
+          "name": "Huayin Oriental City, Weinan City",
+          "industry": "Fasilitas proses industri"
+        }
+      ]
+    },
+    "certifications": {
+      "badge": "Ikhtisar Kualifikasi",
+      "title": "Tersertifikasi untuk Menjalankan. Berkualifikasi untuk Memimpin.",
+      "headers": {
+        "qualification": "Kualifikasi / Sertifikasi",
+        "authority": "Otoritas Penerbit"
+      },
+      "rows": [
+        {
+          "qualification": "Desain Engineering Kelas A",
+          "subtitle": "Industri Kimia & Petrokimia, Engineering Arsitektur Kelas A (Proyek Bangunan)",
+          "authority": "Kementerian Perumahan dan Pembangunan Perkotaan-Pedesaan RRT"
+        },
+        {
+          "qualification": "Desain Engineering Spesialisasi Kelas B",
+          "subtitle": "Engineering Lingkungan (Pengendalian Pencemaran Air)",
+          "authority": "Dinas Perumahan & Pembangunan Perkotaan-Pedesaan Provinsi Fujian"
+        },
+        {
+          "qualification": "Desain Engineering Spesialisasi Kelas B",
+          "subtitle": "Engineering Sipil (Sanitasi Lingkungan)",
+          "authority": "Dinas Perumahan & Pembangunan Perkotaan-Pedesaan Provinsi Fujian"
+        },
+        {
+          "qualification": "Desain Engineering Spesialisasi Kelas B",
+          "subtitle": "Engineering Sipil (Engineering Gas Perkotaan)",
+          "authority": "Dinas Perumahan & Pembangunan Perkotaan-Pedesaan Provinsi Fujian"
+        },
+        {
+          "qualification": "Kualifikasi Konsultasi Engineering Kelas A",
+          "subtitle": "",
+          "authority": "Asosiasi Konsultasi Engineering China"
+        },
+        {
+          "qualification": "Kualifikasi Perencanaan Tata Ruang Kelas B",
+          "subtitle": "",
+          "authority": "Dinas Sumber Daya Alam Provinsi Fujian"
+        },
+        {
+          "qualification": "Sertifikat Perusahaan Teknologi Tinggi",
+          "subtitle": "",
+          "authority": "Dinas Iptek Fujian, Dinas Keuangan Fujian, Administrasi Perpajakan (Fujian)"
+        }
+      ]
     }
   },
   "footer": {
-    "copy": "Landing page Vue dasar untuk Fujian Medical Engineering."
+    "companySuffix": "Design Institute Co., Ltd.",
+    "description": "Institut desain engineering tingkat nasional yang berfokus pada layanan engineering komprehensif untuk sektor farmasi, kimia, dan energi.",
+    "quickLinks": {
+      "title": "Tautan Cepat",
+      "items": {
+        "about": "Tentang Kami",
+        "services": "Layanan",
+        "portfolio": "Proyek",
+        "contact": "Hubungi Kami"
+      }
+    },
+    "fieldsTitle": "Bidang Engineering",
+    "fields": [
+      "Farmasi & Kimia",
+      "Engineering Lingkungan",
+      "Engineering Energi Baru",
+      "Penyimpanan Minyak & Gas",
+      "Engineering Sipil"
+    ],
+    "contactTitle": "Informasi Kontak",
+    "address": "North Building, Medical & Engineering Technology Building, No. 26-1 Wulongjiang South Avenue, Fuzhou High-tech Zone, Fuzhou, Fujian, China",
+    "phone": "+65 87810302",
+    "email": "admin@ygsjy.com",
+    "rights": "Seluruh Hak Dilindungi."
   }
 }
